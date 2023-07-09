@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:nguyenhads/demand_forcast_mlsys.git
+	fetch = +refs/*:refs/*
+	mirror = true
