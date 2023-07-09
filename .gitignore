@@ -1,5 +1,5 @@
 .venv/
 /demand_forcast_mlsys.git
 src/dataset/__pycache__/*.pyc
-src/dataset/__pycache__
-src/dataset/__pycache__/*
+src/dataset/__pycache__/
+src/utils/__pycache__/
