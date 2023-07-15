@@ -1,0 +1,7 @@
+data_path:
+  master:
+    item_price: /Users/thaihanguyen/Desktop/projects/demand_forcast_mlsys/master_data/item_prices.csv
+    items: /Users/thaihanguyen/Desktop/projects/demand_forcast_mlsys/master_data/items.csv
+    sale_records: /Users/thaihanguyen/Desktop/projects/demand_forcast_mlsys/master_data/item_sales_records_2017_2021.csv
+    regions: /Users/thaihanguyen/Desktop/projects/demand_forcast_mlsys/master_data/regions.csv
+    stores: /Users/thaihanguyen/Desktop/projects/demand_forcast_mlsys/master_data/stores.csv
