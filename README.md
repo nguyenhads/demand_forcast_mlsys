@@ -9,4 +9,3 @@
 
 * Poetry
     * [Poetry cheat sheet](https://www.yippeecode.com/topics/python-poetry-cheat-sheet/)
-* LINE LOCAL
