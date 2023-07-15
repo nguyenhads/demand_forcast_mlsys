@@ -3,3 +3,4 @@
 src/dataset/__pycache__/*.pyc
 src/dataset/__pycache__/
 src/utils/__pycache__/
+notebooks/.ipynb_checkpoints/
